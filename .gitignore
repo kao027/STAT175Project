@@ -1,3 +1,4 @@
 top-categories/wiki-topcats.txt
 top-categories/wiki-topcats.txt
 echo "*.pkl" >> .gitignore
+graph.pkl
